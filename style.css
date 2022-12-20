@@ -50,6 +50,11 @@ body {
   font-size: 25px;
 }
 
+#btn-project {
+  text-decoration: none;
+  color: aliceblue;
+}
+
 #highlight {
   color: rgb(233, 17, 17);
   font-weight: bold;
